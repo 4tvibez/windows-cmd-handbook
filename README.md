@@ -5,6 +5,7 @@ A beginner-friendly reference for Windows Command Prompt (CMD), with commands gr
 ## Contents
 
 - [Windows CMD Command Handbook](WINDOWS-CMD-COMMAND-HANDBOOK.md)
+- [Windows 10 User Account Recovery and Password Help](WINDOWS-ACCOUNT-RECOVERY.md)
 - [Getting started](#getting-started)
 - [Safety first](#safety-first)
 
